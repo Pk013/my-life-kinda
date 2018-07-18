@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+    <h1>Basic portfolio</h1>
+</head>
+<body>
+    <h2>likes</h2>
+    <li>video games</li>
+    <li>anime</li>
+    <li>dungeons and dragons</li>
+    <h2>dislikes</h2>
+    <li>haters</li>
+    <li>most sports</li>
+    <li>country music</li>
+</body>
